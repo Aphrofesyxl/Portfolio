@@ -265,7 +265,7 @@ button:hover::after {
     bottom: 25px;
     width: 170px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .home-sci a {
